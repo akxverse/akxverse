@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Akanksha Singh 👋
 
-<!--
-**akxverse/akxverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineering Student | Exploring the World of Technology Through Projects
 
-Here are some ideas to get you started:
+I'm an engineering student from India passionate about technology, problem-solving, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring different areas of computing through programming, projects, and hands-on experimentation. I enjoy learning by building, and every repository here represents a step in my journey through the world of technology.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Engineering Student
+- 💻 Learning C, Python, Java, HTML, CSS, and JavaScript
+- 🔭 Building projects to strengthen my practical skills
+- ⚡ Learning Git & GitHub through real-world practice
+- 🎯 Open to exploring different domains in technology
+
+---
+
+## 🎯 Current Focus
+
+🔹 Strengthening Programming Fundamentals
+🔹 Building Real-World Projects
+🔹 Improving Problem-Solving Skills
+🔹 Exploring Different Areas of Technology
+
+---
+
+## 🌱 Beyond Technology
+
+- 📚 Continuous Learning
+- ☕ Coffee Enthusiast
+- 🚀 Building Better Projects Every Day
+- 🎯 Growth Mindset
+
+---
+## 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/akanksha-singh-aba488390) • [GitHub](https://github.com/akxverse)
+
+
+⭐ Exploring technology, building projects, and learning one commit at a time.
