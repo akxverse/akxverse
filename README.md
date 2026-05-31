@@ -29,10 +29,10 @@ Currently exploring different areas of computing through programming, projects, 
 
 ## 🌱 Beyond Technology
 
-- 📚 Continuous Learning
-- ☕ Coffee Enthusiast
-- 🚀 Building Better Projects Every Day
-- 🎯 Growth Mindset
+- 🎨 Painting
+- 📚 Lifelong learning
+- 🚀 Personal growth
+- 🌍 Curiosity and creativity
 
 ---
 ## 🤝 Connect
