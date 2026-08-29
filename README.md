@@ -25,16 +25,15 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akxverse&show_icons=true&theme=radical&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akxverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akxverse&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+## 🔥 Streak Stats
+![Akanksha's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=akxverse&theme=radical&hide_border=false)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akxverse&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
+## 💻 Top Languages
+![Akanksha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akxverse&layout=compact&theme=radical&cache_seconds=1800)
+
 
 ---
 
