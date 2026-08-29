@@ -25,18 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akxverse&show_icons=true&theme=radical&cache_seconds=1800)
-
-## 🔥 Streak Stats
-![Akanksha's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=akxverse&theme=radical&hide_border=false)
-
-## 💻 Top Languages
-![Akanksha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akxverse&layout=compact&theme=radical&cache_seconds=1800)
-
-
----
-
 <p align="center">
   <a href="https://linkedin.com/in/akanksha-singh-aba980300"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akankshasingh18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
