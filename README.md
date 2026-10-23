@@ -32,5 +32,5 @@
 
 ---
 
-*Learning by building — one commit at a time.* 
+*Learning by building — one commit at a time.*  
  
